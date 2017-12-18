@@ -7,4 +7,7 @@ function destructivelyAddElementToBeginningOfArray (arr,ele){
   arr = [ele,...arr]
 }
 
-functio 
+function addElementToEndOfArray (arr,ele){
+  
+}
+function 
