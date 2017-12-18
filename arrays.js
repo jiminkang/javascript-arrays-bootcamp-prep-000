@@ -6,3 +6,5 @@ function addElementToBeginningOfArray (arr, ele){
 function destructivelyAddElementToBeginningOfArray (arr,ele){
   arr = [ele,...arr]
 }
+
+functio 
